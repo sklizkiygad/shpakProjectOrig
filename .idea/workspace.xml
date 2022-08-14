@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d48b56c7-9754-4aec-a1b9-eac4a46f4e8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppRouter/AppRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AppRouter/AppRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MyInputs/InputForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MyInputs/InputForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MyInputs/MyInputs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MyInputs/MyInputs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigbar/navigbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Слой 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage/Login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage/Login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/RegPage/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/RegPage/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/welcomePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CA2GDQaqXWcEQ5tnw4G4VH0xm1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\shpak\src\pages\RegPage" />
+      <recent name="D:\shpak\src\pages\LoginPage" />
+      <recent name="D:\shpak\src\img" />
+      <recent name="D:\shpak\src\components\Navbar" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d48b56c7-9754-4aec-a1b9-eac4a46f4e8c" name="Default Changelist" comment="" />
+      <created>1658230970518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658230970518</updated>
+      <workItem from="1658230973833" duration="441000" />
+      <workItem from="1658567780182" duration="3101000" />
+      <workItem from="1658573147822" duration="1034000" />
+      <workItem from="1658599084109" duration="2217000" />
+      <workItem from="1658777045577" duration="227000" />
+      <workItem from="1660205733310" duration="5352000" />
+      <workItem from="1660246317312" duration="622000" />
+      <workItem from="1660294815738" duration="145000" />
+      <workItem from="1660301114032" duration="5316000" />
+      <workItem from="1660307285576" duration="942000" />
+      <workItem from="1660308807775" duration="1238000" />
+      <workItem from="1660317506842" duration="7089000" />
+      <workItem from="1660379820025" duration="9356000" />
+      <workItem from="1660467583773" duration="1006000" />
+      <workItem from="1660476495599" duration="2018000" />
+      <workItem from="1660495120685" duration="3318000" />
+      <workItem from="1660502455663" duration="645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658572181155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1658572181155" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658567971125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658567971124" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1660310894637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1660310894637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1660310894637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1660310894637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1660310894637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1660310894637" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1660310894637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660310894637" />
+  </component>
+</project>

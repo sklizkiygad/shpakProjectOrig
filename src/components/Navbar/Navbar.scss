@@ -1,0 +1,149 @@
+.myNavbar{
+  background: rgba(192, 192, 192, 0.678);
+  max-height: 70px;
+  border-radius: 0 0 15px 15px;
+  padding: 0 30px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  justify-content: space-between;
+  width: 100%;
+  -webkit-box-shadow: 1px 4px 28px -5px rgba(0,0,0,0.5);
+  -moz-box-shadow: 1px 4px 28px -5px rgba(0,0,0,0.5);
+  box-shadow: 1px 4px 28px -5px rgba(0,0,0,0.5);
+  z-index: 100;
+
+  a{
+    background-color: white;
+
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 8px;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    align-items: flex-end;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  a:hover {
+    background-color: #555555;
+    color: white;
+  }
+}
+
+
+/*расположение навбара*/
+.loc-bottom{
+  max-height: 70px;
+  top:auto;
+  bottom:0;
+  left:auto;
+  right:auto;
+  border-radius: 15px 15px 0 0;
+  padding: 0 30px;
+}
+.loc-up{
+  max-height: 70px;
+  top:0;
+  bottom:auto;
+  left:auto;
+  right:auto;
+  border-radius: 0 0 15px 15px;
+  padding: 0 30px;
+}
+
+.loc-right{
+  top:0;
+  bottom:auto;
+  left:auto;
+  right:0;
+  max-width: 200px;
+  flex-direction: column;
+  height: 100%;
+  max-height: none;
+  border-radius: 0 0 15px 15px;
+  padding: 50px 0;
+}
+
+.loc-left{
+  top:0;
+  bottom:auto;
+  left:0;
+  right:auto;
+  max-width: 200px;
+  flex-direction: column;
+  height: 100%;
+  max-height: none;
+  border-radius: 0 0 15px 15px;
+  padding: 50px 0;
+}
+
+/*расположение навбара*/
+
+
+.myNavbar__logo{
+  display: flex;
+  height: 60px;
+}
+
+.myNavbar-logo__name{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  h4{
+    font-size: 30px;
+  }
+}
+
+.myNavbar__logo img{
+  height: 100%;
+  cursor: pointer;
+}
+.myNavbar__navbuttons{
+  display: flex;
+  align-items: center;
+}
+
+.myNavbar__location{
+
+  img{
+    width: 20px;
+    height: 20px;
+  }
+  ul{
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    position: absolute;
+    width: 150px;
+    li{
+      list-style-type: none;
+      display: flex;
+      padding: 5px;
+      border-radius: 8px;
+      justify-content: space-between;
+
+
+    }
+    li:hover{
+      background-color: rgba(192, 192, 192, 0.678);
+      cursor: pointer;
+
+
+    }
+
+  }
+}
+@media(max-width: 670px){
+  .myNavbar__navbuttons{
+    display: none;
+  }
+}

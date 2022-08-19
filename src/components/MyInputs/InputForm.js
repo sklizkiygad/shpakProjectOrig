@@ -9,12 +9,9 @@ const InputForm = ({inputsArray},requestAddress) => {
     return (
         <form className="inputs-form">
             {inputsArray.map(inp=>
-
                 <div key={inp.id}>
-
                 <label  htmlFor={inp.id+inp.type}>{inp.name}</label>
                 <input id={inp.id+inp.type} type={inp.type}/>
-
                 </div>
             )}
         <button onClick={sendInfo} type="submit">Отправить</button>

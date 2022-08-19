@@ -98,8 +98,12 @@ const Navbar = () => {
                 </div>
 
 
-                <Link to="/login">Вход</Link>
-                <Link to="/register">Регистрация</Link>
+                {localStorage.getItem('isAuth')==='true'? (
+                    <div style={{display:(actualStyle==='loc-bottom'||actualStyle==='loc-up')?'flex':'block'}}>
+                    <Link to="/login">Вход</Link>
+                    <Link to="/register">Регистрация</Link>
+                    </div>):
+                    ( <a>Выйти</a>)}
 
             </div>
         </div>

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import Navbar from "../../components/Navbar/Navbar";
-import InputForm from "../../components/MyInputs/InputForm";
+import InputForm from "../../components/MyInputs/ApiForm/InputForm";
 
 const Register = () => {
     const [regInputsArray,setRegInputsArray]=useState([{id:0,name:'Почта',type:'email'},

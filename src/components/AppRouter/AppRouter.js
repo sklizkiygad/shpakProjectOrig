@@ -2,7 +2,7 @@ import React from 'react';
 import {Routes,Route} from 'react-router-dom';
 import Register from "../../pages/RegPage/Register";
 import Login from "../../pages/LoginPage/Login";
-import PersCab from "../../pages/persCab/PersCab";
+import PersCab from "../../pages/PersCab/PersCab";
 import ProjectPage from "../../pages/ProjectPage/ProjectPage";
 
 

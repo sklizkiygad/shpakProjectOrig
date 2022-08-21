@@ -13,17 +13,26 @@
     <list default="true" id="d48b56c7-9754-4aec-a1b9-eac4a46f4e8c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/components/CardsHolder/CardsHolder.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/CardsHolder/CardsHolder.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MyModal/MyModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MyModal/MyModal.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/TaskCard/TaskCard.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/TaskCard/TaskCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PersCab/PersCab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PersCab/PersCab.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/ProjectPage/ProjectPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/ProjectPage/ProjectPage.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/persCab/PersCab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/persCab/PersCab.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/AppRouter/AppRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AppRouter/AppRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MyInputs/InputForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MyInputs/InputForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MyInputs/InputForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MyInputs/ApiForm/InputForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MyInputs/MyInputs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MyInputs/ApiForm/MyInputs.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/RegPage/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/RegPage/Register.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\shpak\src\components\MyInputs\ApiForms" />
       <recent name="D:\shpak\src\pages\RegPage" />
       <recent name="D:\shpak\src\pages\LoginPage" />
       <recent name="D:\shpak\src\img" />
@@ -104,6 +114,11 @@
       <workItem from="1660851288684" duration="1369000" />
       <workItem from="1660905916232" duration="2389000" />
       <workItem from="1660912976198" duration="2361000" />
+      <workItem from="1660930043521" duration="4490000" />
+      <workItem from="1660980053086" duration="4877000" />
+      <workItem from="1660989970595" duration="7754000" />
+      <workItem from="1661019145397" duration="639000" />
+      <workItem from="1661077941800" duration="3791000" />
     </task>
     <servers />
   </component>
@@ -123,10 +138,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658572181155">
+    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1660981862740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1658572181155" />
+    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1660981862740" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658567971125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -147,10 +162,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660310894637" />
-    <state x="667" y="243" width="585" height="554" key="find.popup" timestamp="1660914345082">
+    <state x="667" y="243" width="585" height="554" key="find.popup" timestamp="1661079780169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="243" width="585" height="554" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1660914345082" />
+    <state x="667" y="243" width="585" height="554" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1661079780169" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1660814543261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

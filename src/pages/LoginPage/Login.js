@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import Navbar from "../../components/Navbar/Navbar";
-import InputForm from "../../components/MyInputs/InputForm";
+import InputForm from "../../components/MyInputs/ApiForm/InputForm";
 import './Login.scss';
 
 const Login = () => {
